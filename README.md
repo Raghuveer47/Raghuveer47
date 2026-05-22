@@ -68,26 +68,8 @@ Learning Management System with:
 - ⚡ Smart India Hackathon (SIH) Judge – 2025
 - 🔐 Certified Ethical Hacker (CEH v10)
 - 🏕️ NSS National Award Holder
-
----
-
-## 🎓 Colleges Trained At
-
-- SRM University
-- GITAM University
-- RGUKT Nuzvid
-- JNTU Rajahmundry
-- CBIT Hyderabad
-- NRI Engineering College
-- And many more...
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghuveer47&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuveer47&layout=compact&theme=tokyonight)
+- Adventure camp Team lead gold medal Himachal pradesh Narkhand
+  
 
 ---
 
