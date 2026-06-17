@@ -6,7 +6,7 @@ Passionate about building scalable web applications, mentoring students, and bri
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 👨‍🏫 Corporate Trainer at Datavalley.ai & CCC Digital India Pvt. Ltd.
 - 💼 Experienced in MERN Stack & Python Django Development
@@ -19,12 +19,13 @@ Passionate about building scalable web applications, mentoring students, and bri
 
 ## 🛠️ Technical Skills
 
-### 🚀 Languages
+###  Languages
 - JavaScript
 - Python
 - C
+- GO lang
 
-### 🌐 Full Stack Development
+###  Full Stack Development
 - React.js
 - Node.js
 - Express.js
@@ -38,7 +39,7 @@ Passionate about building scalable web applications, mentoring students, and bri
 - VS Code
 - Postman
 
-### 📚 Core Skills
+###  Core Skills
 - Data Structures & Algorithms
 - Problem Solving
 - Team Leadership
@@ -46,12 +47,12 @@ Passionate about building scalable web applications, mentoring students, and bri
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🍔 Food Reduction MERN Application
+###  Food Reduction MERN Application
 A platform connecting food donors and receivers to reduce food waste.
 
-### 👕 Laundry Management System
+###  Laundry Management System
 Laundry service platform with authentication, online payments, and order tracking.
 
 ### 🎓 LMS Platform
@@ -62,7 +63,7 @@ Learning Management System with:
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - 🥇 Best Trainer Award
 - ⚡ Smart India Hackathon (SIH) Judge – 2025
@@ -83,8 +84,3 @@ Learning Management System with:
 
 ---
 
-## ✨ Motto
-
-> “Bridging industry skills with practical learning.”
-
-⭐ Star repositories if you like my work!
