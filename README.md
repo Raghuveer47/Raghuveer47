@@ -246,7 +246,7 @@ React.js, Node.js, Express.js, MongoDB, REST APIs, JavaScript, Git
 
 ---
 
-# Personal & Academic Projects
+
 
 ## Food Reduction Platform
 
