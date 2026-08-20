@@ -246,6 +246,62 @@ React.js, Node.js, Express.js, MongoDB, REST APIs, JavaScript, Git
 
 ---
 
+## 6 Signal Messaging Application Global App
+
+
+https://apps.apple.com/in/app/signal-private-messenger/id874139669
+Signal - Private Messenger
+
+A privacy-focused real-time messaging application designed for secure communication between users. The application provides a modern chat experience with support for conversations, media sharing, voice messages, disappearing messages, and privacy-oriented communication features.
+
+### Key Features
+
+* Real-time private messaging
+* One-to-one conversations
+* Group conversations
+* Text messaging
+* Image and media sharing
+* Voice message support
+* Disappearing messages
+* Chat history management
+* Conversation search
+* User profiles
+* Privacy-focused messaging experience
+* Responsive messaging interface
+* Modern chat UI for desktop and tablet devices
+
+### Application Interface
+
+The application includes a modern messaging interface with:
+
+* Conversation sidebar
+* Active chat window
+* Message composer
+* Media sharing
+* Voice message controls
+* Disappearing-message functionality
+* User and group conversations
+* Message history
+
+### Technical Focus
+
+The project involved implementing the core architecture required for a modern real-time communication platform, including:
+
+* Real-time communication
+* Client-server messaging
+* User authentication
+* Message persistence
+* Media handling
+* Conversation management
+* API integration
+* Event-driven communication
+* Responsive frontend architecture
+
+### Technologies
+
+React.js, Node.js, Express.js, MongoDB, REST APIs, WebSockets / Socket.IO, JavaScript, Git
+
+
 
 
 ## Food Reduction Platform
@@ -326,62 +382,8 @@ React.js, Node.js, Express.js, MongoDB
 
 ---
 
-## Signal Messaging Application Global App
 
 
-https://apps.apple.com/in/app/signal-private-messenger/id874139669
-Signal - Private Messenger
-
-A privacy-focused real-time messaging application designed for secure communication between users. The application provides a modern chat experience with support for conversations, media sharing, voice messages, disappearing messages, and privacy-oriented communication features.
-
-### Key Features
-
-* Real-time private messaging
-* One-to-one conversations
-* Group conversations
-* Text messaging
-* Image and media sharing
-* Voice message support
-* Disappearing messages
-* Chat history management
-* Conversation search
-* User profiles
-* Privacy-focused messaging experience
-* Responsive messaging interface
-* Modern chat UI for desktop and tablet devices
-
-### Application Interface
-
-The application includes a modern messaging interface with:
-
-* Conversation sidebar
-* Active chat window
-* Message composer
-* Media sharing
-* Voice message controls
-* Disappearing-message functionality
-* User and group conversations
-* Message history
-
-### Technical Focus
-
-The project involved implementing the core architecture required for a modern real-time communication platform, including:
-
-* Real-time communication
-* Client-server messaging
-* User authentication
-* Message persistence
-* Media handling
-* Conversation management
-* API integration
-* Event-driven communication
-* Responsive frontend architecture
-
-### Technologies
-
-React.js, Node.js, Express.js, MongoDB, REST APIs, WebSockets / Socket.IO, JavaScript, Git
-
----
 
 
 # Training & Mentoring
